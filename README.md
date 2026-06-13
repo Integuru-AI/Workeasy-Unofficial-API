@@ -1,0 +1,32 @@
+# Workeasy Unofficial API
+
+Unofficial Python integrations for Workeasy.
+
+## Integrations
+
+- `workeasy_get_employee_details.py` - `get_employee_details` (170,500 live events).
+- `workeasy_list_punches.py` - `list_punches` (7,961 live events).
+- `workeasy_get_timesheet_time_segments.py` - `get_timesheet_time_segments` (6,966 live events).
+- `workeasy_list_employees.py` - `list_employees` (4,121 live events).
+
+## Usage
+
+Each file exposes a `run(input, context)` entrypoint. The runtime is expected to provide:
+
+- `input`: integration-specific request fields.
+- `context["headers"]`: authenticated request headers when required.
+- `context["base_url"]`: the platform base URL when overriding the default.
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Info
+
+This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+
+For custom requests or hosted authentication, contact richard@taiki.online.
+
+See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
