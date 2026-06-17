@@ -4,10 +4,10 @@ Unofficial Python integrations for Workeasy.
 
 ## Integrations
 
-- `workeasy_get_employee_details.py` - `get_employee_details` (170,500 live events).
-- `workeasy_list_punches.py` - `list_punches` (7,961 live events).
-- `workeasy_get_timesheet_time_segments.py` - `get_timesheet_time_segments` (6,966 live events).
-- `workeasy_list_employees.py` - `list_employees` (4,121 live events).
+- `workeasy_get_employee_details.py` - `get_employee_details`.
+- `workeasy_list_punches.py` - `list_punches`.
+- `workeasy_get_timesheet_time_segments.py` - `get_timesheet_time_segments`.
+- `workeasy_list_employees.py` - `list_employees`.
 
 ## Usage
 
