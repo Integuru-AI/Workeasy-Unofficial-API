@@ -4,10 +4,10 @@ Unofficial Python integrations for Workeasy.
 
 ## Integrations
 
-- `workeasy_get_employee_details.py` - `get_employee_details` (170,500 live events).
-- `workeasy_list_punches.py` - `list_punches` (7,961 live events).
-- `workeasy_get_timesheet_time_segments.py` - `get_timesheet_time_segments` (6,966 live events).
-- `workeasy_list_employees.py` - `list_employees` (4,121 live events).
+- `workeasy_get_employee_details.py` - `get_employee_details`.
+- `workeasy_list_punches.py` - `list_punches`.
+- `workeasy_get_timesheet_time_segments.py` - `get_timesheet_time_segments`.
+- `workeasy_list_employees.py` - `list_employees`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
